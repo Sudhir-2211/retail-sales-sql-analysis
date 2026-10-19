@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite databases (generated locally by loader)
+*.db
+*.sqlite
+*.sqlite3
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
